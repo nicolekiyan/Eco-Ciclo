@@ -13,6 +13,7 @@ header {
     background-image: url(ECOCICLO-main/img/fundo.png);
     background-size: cover;
     height: 500px;    
+    height: 550px;    
     padding: 140px;
 }
 body {
@@ -52,6 +53,7 @@ height: 200px;
     font-size: 60px;
     font-weight: 400;
     padding: 20px;
+    padding: 0px 0px 0px -15px;
     
 }
 .subtitulo {
@@ -92,6 +94,7 @@ height: 200px;
     color: #ffffff;
     font-weight: 375;
     text-align: left;
+    padding: 0px 0px 0px 20px;
     
 
 
@@ -102,7 +105,7 @@ height: 200px;
     color: #000000;
     font-weight: 450;
 text-align: left;
-padding: 20px 0px 20px 0px;
+padding: 20px 0px 20px 20px;
 
 
 }
@@ -172,7 +175,7 @@ font-size: 64px;
 font-weight: 400;
 line-height: 80px;
 text-align: left;
-padding: 70px 80px 90px 100px;
+padding: 30px 80px 90px 100px;
 
     
 }
