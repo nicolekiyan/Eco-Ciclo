@@ -1,0 +1,216 @@
+@font-face {
+    font-family: "lexend";
+    src: url(ECOCICLO-main/font/Lexend-VariableFont_wght.ttf);
+}
+
+* {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header {
+    background-image: url(ECOCICLO-main/img/fundo.png);
+    background-size: cover;
+    height: 500px;    
+    padding: 140px;
+}
+body {
+    background-color: #598C38;
+}
+footer{
+    padding: 100px;
+    color: #F4F3F3;
+}
+
+.titulo{
+    font-family: "lexend";
+    font-size: 90px;
+    font-weight:470;
+}
+
+.titulo2 {
+    color: #F4F3F3;
+    font-family: "lexend";
+    width: 891px;
+height: 200px;
+}
+.titulo20{
+    color: #F4F3F3;
+    font-family: "lexend";
+    font-size: 78px;
+    font-weight: 360;
+    padding: 20px;
+    margin: 20px 20px 20px 20px;
+    line-height: 90px;
+    
+}
+
+.titulo200{
+    color: #F4F3F3;
+    font-family: "lexend";
+    font-size: 60px;
+    font-weight: 400;
+    padding: 20px;
+    
+}
+.subtitulo {
+    font-family: "lexend";
+    font-size: 35px;
+}
+
+.imagem{
+    height: 360px;
+    width: 390px;
+
+}
+.divisao {
+    background-color: #F4F3F3;
+    width: 390px;
+    border-radius: 10px;
+    margin: 25px;
+    height: 550px;
+}
+.display{
+    display: flex;
+    justify-content: center;
+
+}
+.texto {
+    font-family: "lexend";
+    font-size: 24px; 
+    padding: 15px;
+    text-align: justify;
+    align-self: center;  
+    font-weight: 430; 
+
+  
+}
+.nomeP {
+    font-family: "lexend";
+    font-size: 60px;
+    color: #ffffff;
+    font-weight: 375;
+    text-align: left;
+    
+
+
+}
+.nome {
+    font-family: "lexend";
+    font-size: 60px;
+    color: #000000;
+    font-weight: 450;
+text-align: left;
+padding: 20px 0px 20px 0px;
+
+
+}
+.redes{
+    color: #F4F3F3;
+    font-family: "lexend";
+    font-weight: 300;
+    font-size: 24px;
+    padding: 20px;
+}
+.sobre {
+    background-color: #F4F3F3;
+    padding: 50px 70px;
+    
+}
+.sobre.nome {
+    color: #000000;
+}
+
+h3 {
+    color: #598C38;
+    font-family: "lexend";
+    font-size: 50px;
+font-weight: 500;
+line-height: 60px;
+text-align: left;
+
+}
+section{
+    padding: 150px;
+}
+.textoSobre{
+    font-family: "Lexend";
+font-size: 36px;
+font-weight: 300;
+line-height: 45px;
+text-align: justify;
+
+}
+.conteudo {
+    color: #F4F3F3;
+    font-family: "lexend";
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 45px;
+    text-align: justify;
+    margin: 15px 15px 15px 15px;
+    
+    }
+    
+    img{
+        width: 321px;
+        height: 205px;
+        border-radius: 8px 0px 0px 8px;
+    }
+    .container {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    
+    }
+    
+.nossoImpacto{
+    background-color: #476C30;
+    font-family: "Lexend";
+font-size: 64px;
+font-weight: 400;
+line-height: 80px;
+text-align: left;
+padding: 70px 80px 90px 100px;
+
+    
+}
+
+.nomeF{
+font-family: "Lexend";
+font-size: 64px;
+font-weight: 400;
+line-height: 80px;
+text-align: left;
+padding: 20px;
+}
+
+.redesF{
+    font-family: "Lexend";
+font-size: 40px;
+font-weight: 300;
+line-height: 50px;
+text-align: left;
+padding: 20px;
+
+}
+
+.numeroF{
+    font-family: "Lexend";
+font-size: 40px;
+font-weight: 300;
+line-height: 50px;
+text-align: left;
+padding-top:15px;
+
+}
+
+.divSobre{
+    padding: 20px;
+    font-weight: 40px;
+}
+
+.processo{
+   padding: 50px 100px 50px 100px;
+}
